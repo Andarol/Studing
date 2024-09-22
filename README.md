@@ -1,7 +1,5 @@
 
-# docker-compose-flask-db-app
-
-Docker-compose-flask-db-app is a Python app which run messaging site on flask.
+# Python app which run messaging site on flask.
 
 ## Requirements
 Download requirements.txt and add secretsfile.py in your working directory
